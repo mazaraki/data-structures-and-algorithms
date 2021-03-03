@@ -1,2 +1,4 @@
 # data-structures-and-algorithms
-* Search algorithms
+
+## Search algorithms
+* Linear Search
