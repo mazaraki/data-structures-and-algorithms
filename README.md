@@ -4,7 +4,7 @@
 * Linear Search
 
 ## Sorting algorithms
-* <h4>Bubble Sort</h4><br/>
+* <h4>Bubble Sort</h4>
   The simplest sorting algorithm. It works by repeatedly swapping the adjacent elements if they are in the wrong order. It starts at the beginning of an unsorted array and 'bubbles up' unsorted values towards the end, until the array is completely sorted.<br />
   &plus; Simple <br />
   &minus; Multiple iterations, Quadratic time complexity (O(n^2))
