@@ -4,7 +4,7 @@
 * Linear Search
 
 ## Sorting algorithms
-[Bubble Sort](https://github.com/mazaraki/data-structures-and-algorithms/blob/main/bubblesort.js)
+**[Bubble Sort](https://github.com/mazaraki/data-structures-and-algorithms/blob/main/bubblesort.js)<br />
   The simplest sorting algorithm. It works by repeatedly swapping the adjacent elements if they are in the wrong order. It starts at the beginning of an unsorted array and 'bubbles up' unsorted values towards the end, until the array is completely sorted.<br />
   &plus; Simple <br />
   &minus; Multiple iterations, Quadratic time complexity (O(n^2))
