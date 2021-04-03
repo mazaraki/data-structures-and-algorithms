@@ -15,6 +15,10 @@
   &plus; Simple, Good performance on a small list <br />
   &minus; Pure performance when dealing with a big list, Quadratic time complexity (O(n^2))
   
+**[Insertion Sort]()**<br />
+  
+    
+  
 
 
 
