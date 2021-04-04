@@ -15,7 +15,13 @@
   &plus; Simple, Good performance on a small list <br />
   &minus; Pure performance when dealing with a big list, Quadratic time complexity (O(n^2))
   
-**[Insertion Sort]()**<br />
+**[Insertion Sort](https://github.com/mazaraki/data-structures-and-algorithms/blob/main/insertionSort.js)**<br />
+   *[A highly intuitive, stable, in-place, and of comparison-type.](https://stackabuse.com/insertion-sort-in-javascript/)* The list is divided into two parts, the left, which is sorted, and the right (unsorted). Initially, the left (sorted) is empty and the right is the entire input list. The element with the minimun value is selected from the unsorted list and it is mooved to the left side (sorted). The boundary of the unsorted list is moved each time to the right by removing one element.<br />
+   &plus; Simple, Performance advantage over complicated algorithms in some cases
+   &minus; It has O(n^2) time complexity. 
+   
+**[Quick Sort]()**<br />
+  
   
     
   
