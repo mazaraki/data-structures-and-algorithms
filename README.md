@@ -21,6 +21,9 @@
    &minus; It has O(n^2) time complexity. 
    
 **[Quick Sort]()**<br />
+  *[A divide-and-conquer algorithm.](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)* An in-place sorting algorithm. This type breaks down the list in two (or more) lists. An element is picked as pivot. Then, it performs the sorting on these sub-lists. The pivot might be the first or the last element, a random element or some other element, and the list is partitioned around the pivot. Recursion is used and the lists are combined in a final result. 
+  &plus; Used for solving difficult problems, Efficient use of memory, Faster than other sorting algorithms, O(nlog(n)) performance
+  &minus; The efficiency is dependent on the choice of pivot (worst case: always pick the smallest / greatest element as pivot, best case: pick the middle element)
   
   
     
